@@ -1,7 +1,8 @@
 Web Sudoku Puzzle Game
 ======================
 
-Author By Vivek Chavan and Atharva Khadsare.
+Author By : Vivek Chavan
+            Atharva Khadsare
 
 > Welcome to my Sudoku puzzle game! - An interactive web Sudoku puzzle game developed in HTML, CSS, and JavaScript.
 
